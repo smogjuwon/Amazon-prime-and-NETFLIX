@@ -1,7 +1,11 @@
-# Google Stock Growth
+# Aazon Prime and NETFLIX
 
 ### Project Overview
 
+
+### Tools Used
+. Excel
+. Power BI
 
 ### Data Source
 
